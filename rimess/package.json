@@ -1,0 +1,18 @@
+{
+  "name": "kredi-karti-dogrulama",
+  "version": "1.0.0",
+  "description": "kredi karti numarasi dogrular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [
+    "kredi",
+    "kart",
+    "numara",
+    "dogrulama"
+  ],
+  "author": "Emir Subasi",
+  "license": "MIT"
+}
